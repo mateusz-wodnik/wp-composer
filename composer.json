@@ -1,7 +1,6 @@
 {
     "name": "mateusz-wodnik/wp-composer",
     "version": "master",
-    "type": "wordpress-plugin",
     "dist": {
         "url": "git@github.com:mateusz-wodnik/wp-composer.git",
         "type": "git"
